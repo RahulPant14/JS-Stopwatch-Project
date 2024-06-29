@@ -1,3 +1,6 @@
+
+
+body{margin: 0;}
 .container{height: 95vh; background: url(../img/StopwatchBackground.jpg)no-repeat center/cover;text-align: center; padding-top: 50px; padding: 15px;}
 .text{text-align: center;}
 
@@ -30,10 +33,10 @@ h1{color: #fff; margin-bottom: 50px;}
 }
 @media screen and (max-width:460px){
           
-     
+     .container{padding: 0;}
      .str {font-size: 12px;}
-     span {width: 40px;}
-     .num {font-size: 45px;}
+     span {width: 30px;}
+     .num {font-size: 35px;}
      .stop{margin: 50px 10px;}
      .start, .reset{margin: 0;}
 }
