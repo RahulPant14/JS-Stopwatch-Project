@@ -34,9 +34,11 @@ h1{color: #fff; margin-bottom: 50px;}
 @media screen and (max-width:460px){
           
      .container{padding: 0;}
+     h1{margin: 0; padding: 25px 0;}
      .str {font-size: 12px;}
      span {width: 30px;}
      .num {font-size: 35px;}
      .stop{margin: 50px 10px;}
      .start, .reset{margin: 0;}
+
 }
