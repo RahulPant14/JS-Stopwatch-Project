@@ -28,3 +28,12 @@ h1{color: #fff; margin-bottom: 50px;}
      .stop{margin: 50px 10px;}
      .start, .reset{margin: 0;}
 }
+@media screen and (max-width:460px){
+          
+     
+     .str {font-size: 12px;}
+     span {width: 40px;}
+     .num {font-size: 45px;}
+     .stop{margin: 50px 10px;}
+     .start, .reset{margin: 0;}
+}
